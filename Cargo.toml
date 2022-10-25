@@ -1,0 +1,8 @@
+[package]
+name = "reqr"
+version = "0.1.0"
+edition = "2021"
+description = "A middleman that captures HTTP requests and responses between the client and the target URL."
+
+[dependencies]
+
